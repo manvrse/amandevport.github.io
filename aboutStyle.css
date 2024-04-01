@@ -98,11 +98,6 @@ ul.itemsList li.items a:hover{
     border-radius: 5px;
 }
 
-ul.itemsList li.theme a:hover{
-    background: linear-gradient(90deg, rgb(81, 0, 255), rgb(229, 255, 0));
-    border-radius: 5px;
-}
-
 .light{
     background-color: beige;
     color: #000;
