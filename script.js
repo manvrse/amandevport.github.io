@@ -97,7 +97,7 @@ container1.appendChild(anchor1);
 container1.appendChild(img1);
 resume.appendChild(container1);
 resume.addEventListener("click", () => {
-    window.open("./docs/MyResume.docx");
+    window.open("./docs/MyResume.pdf");
 });
 
 const github = document.getElementById("github");
